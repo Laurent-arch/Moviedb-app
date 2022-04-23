@@ -1,0 +1,25 @@
+.search-bar {
+  width: 90vw;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+.form-input {
+  width: 100%;
+  border: transparent;
+  max-width: 600px;
+  background: white;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: var(--radius);
+  color: black;
+  letter-spacing: var(--spacing);
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+.error {
+  color: white;
+  padding-top: 0.5rem;
+  letter-spacing: var(--spacing);
+}
