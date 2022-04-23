@@ -1,4 +1,4 @@
-import { useGlobalContext } from "./context"
+import { useGlobalContext } from "../context"
 import styles from './SearchBar.module.css'
 
 const SearchBar = () => {

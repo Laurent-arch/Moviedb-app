@@ -1,6 +1,6 @@
-import { useGlobalContext } from "./context";
+import { useGlobalContext } from "../context";
 import { Link } from "react-router-dom";
-import styles from "./Movies.module.css";
+import styles from "./MoviesList.module.css";
 
 import { motion } from "framer-motion";
 
